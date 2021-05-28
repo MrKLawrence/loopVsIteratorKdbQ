@@ -1,0 +1,5 @@
+<R>
+<r><messageType>TD</messageType><tradeID>1125899908423190</tradeID><buyOrderID>4062458268342650000</buyOrderID><sellOrderID>6155831595675030000</sellOrderID><buyClientID>4517320501250780000</buyClientID><sellClientID>363004107833623000</sellClientID><time>2000.01.01D09:00:53.000000000</time><date>2019.01.12D00:00:00.000000000</date><sym>AAPL</sym><price>1000.755</price><size>731</size></r>
+<r><messageType>TD</messageType><tradeID>1125899908497850</tradeID><buyOrderID>9149523409155300000</buyOrderID><sellOrderID>3285327145758040000</sellOrderID><buyClientID>4517320501250780000</buyClientID><sellClientID>8794436647266890000</sellClientID><time>2000.01.01D05:50:51.000000000</time><date></date><sym>AAPL</sym><price>1000.46</price><size>122</size></r>
+<r><messageType>TD</messageType><tradeID>1125899908497850</tradeID><buyOrderID>8431137359479950000</buyOrderID><sellOrderID>7247178312858560000</sellOrderID><buyClientID>4517320501250780000</buyClientID><sellClientID>8767786283540340000</sellClientID><time>2000.01.01D05:53:50.000000000</time><date></date><sym>AAPL</sym><price>1000.016</price><size>554</size></r>
+</R>

@@ -1,6 +1,6 @@
-// DataLoading.q
-\l p.q
-\l util.q
+/ DataLoading.q
+// load Kx fusion interface in q here
+// load util function here
 
 \d .dl
  
